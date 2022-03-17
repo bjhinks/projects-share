@@ -2,7 +2,7 @@ from mysql.connector import connect
 
 host = 'localhost'
 user = 'root'
-password = 'drowssap'
+password = ''
 
 
 # With statements automatically close connection object and cursor
