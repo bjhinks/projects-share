@@ -1,7 +1,7 @@
 from mysql.connector import connect
 
 host = 'localhost'
-user = 'root'
+user = ''
 password = ''
 
 
